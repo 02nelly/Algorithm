@@ -24,6 +24,7 @@ s.push(30);
 s.push(100);
 s.push(200);
 s.push(300);
+s.push(400);
 
 let popValue = s.pop(2);
 
